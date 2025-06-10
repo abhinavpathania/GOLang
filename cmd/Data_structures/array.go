@@ -15,5 +15,7 @@ func main(){
 
 
 	// fmt.Printf("%v",&arr2[0])
-	slice()
+	// slice()
+	// maps()
+	measure_time()
 }
