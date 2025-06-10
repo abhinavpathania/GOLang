@@ -28,6 +28,5 @@ func maps(){
 	}else{
 		fmt.Println("Does not exist")
 	}
-	
 
 }
