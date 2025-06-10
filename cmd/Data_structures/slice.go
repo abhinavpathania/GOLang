@@ -15,7 +15,8 @@ func slice(){
 	mySlice2 =append(mySlice,mySlice2...)
 
 	fmt.Println(mySlice2)
+
+	myslice3 := make([]int32,3,8) // 3 is the length and 8 is the capacity
+	fmt.Println(myslice3)
+
 }
-
-
-
